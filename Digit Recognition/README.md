@@ -21,5 +21,5 @@ Implementing a simple CNN model based on the AlexNet architecture for digit reco
 
 
 ### Result
-<img src="https://github.com/user-attachments/assets/e55040a1-0741-4ce8-9217-a1c5919f5b6a" width="275" />
+<img width="350" alt="rst" src="https://github.com/user-attachments/assets/610c6a27-50d9-4e21-9981-44d3d50c7a18" />
 
