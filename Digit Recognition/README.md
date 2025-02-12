@@ -17,3 +17,9 @@ pip install tensorflow
 
 Implementing a simple CNN model based on the AlexNet architecture for digit recognition
 - Achieved an accuracy of nearly 0.99 in the first training session and maintained performance close to 1 in subsequent sessions
+<hr>
+
+
+### Result
+<img src="https://github.com/user-attachments/assets/e55040a1-0741-4ce8-9217-a1c5919f5b6a" width="275" />
+
