@@ -5,7 +5,15 @@ Before running the program, make sure you have TensorFlow installed. You can ins
 ```bash
 pip install tensorflow
 ```
-<hr>
+## Environment Setup Description
+
+This project's model training was completed in the Google Colab environment.<br>
+### Running Environment
+
+- Platform: Google Colab
+- GPU: Tesla T4 (provided free by Google Colab)
+- Python Version: 3.10.12
+
 
 
 ## Digit Recognition
