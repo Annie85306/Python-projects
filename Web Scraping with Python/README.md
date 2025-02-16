@@ -3,7 +3,7 @@
 透過網路爬蟲抓取Yahoo奇摩購物網站上「護眼檯燈」熱銷前幾名的項目，以及其價格，並儲存為Excel表以方便做比較<br>
 - 相關網址：https://tw.buy.yahoo.com/category/4385983?sort=-sales
 - 使用BeautifulSoup、requests以及其他packages來執行web scrapping with Python
-- 此想法源於我想在台灣知名網購平台網購一款價格實惠的護眼檯燈，於是我分析了其網頁的HTML文法以爬取我想要的內容，包含商品名稱、價格，並將其儲存於excel檔; 這個program方便我進行比較並找出價格最低廉護眼檯燈的商品名稱
+- 此想法源於我希望於在台灣知名網購平台網購一款價格實惠的護眼檯燈，於是分析了其網頁的HTML文法以爬取想要的內容，包含商品名稱、價格，並將其儲存於excel檔; 這個program方便我進行比較並找出價格最低廉護眼檯燈的商品名稱
 <hr>
 
 
